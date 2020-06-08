@@ -1,9 +1,9 @@
 # Currency Converter
 
-![Illustration](https://github.com/miracaptured/Currency-Converter/blob/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png)
-*
+![Illustration](https://github.com/miracaptured/Currency_converter/blob/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png)
+***
 Simple mobile(android) application for currency conversion develop with Kotlin
-*
+****
 
 # Features
  - Conversation
