@@ -2,7 +2,7 @@
 
 ![Illustration](https://github.com/miracaptured/Currency_converter/blob/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png)
 ***
-Simple mobile(android) application for currency conversion develop with Kotlin
+Simple mobile(android) application for currency conversion developed with Kotlin
 ****
 
 # Features
