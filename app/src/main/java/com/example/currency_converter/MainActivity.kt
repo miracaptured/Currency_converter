@@ -60,7 +60,6 @@ class MainActivity : AppCompatActivity() {
         }
 
         buttonConv.setOnClickListener {
-            //  Toast.makeText(this,"Please do not enter incorrect values", Toast.LENGTH_LONG).show()
             val task = CurrencyTask(this)
             task.execute()
         }
