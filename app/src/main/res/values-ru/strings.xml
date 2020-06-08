@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="valueTo" translatable="false">Валюта №2:</string>
+    <string name="valueFrom" translatable="false">Валюта №1:</string>
+    <string name="button_convert" translatable="false">Конвертировать</string>
+    <string name="resultView" translatable="false">Результат</string>
+    <string name="enter_the_amount" translatable="false">Введите число</string>
+    <string name="app_name">Конвертер Валют</string>
+</resources>

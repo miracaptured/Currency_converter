@@ -1,0 +1,48 @@
+<resources>
+
+    <string name="app_name">Currency Сonverter</string>
+    <string name="valueTo">Currency №2:</string>
+    <string name="inputText" translatable="false" />
+    <string name="valueFrom">Currency №1:</string>
+    <string name="button_convert">Convert</string>
+    <string name="resultView">Result</string>
+    <string name="hint_value" translatable="false">666.666</string>
+    <string name="input_example" translatable="false">666.666</string>
+    <string name="enter_the_amount">Enter the amount</string>
+
+    <string-array name="values_list">
+        <item>CAD</item>
+        <item>HKD</item>
+        <item>ISK</item>
+        <item>PHP</item>
+        <item>DKK</item>
+        <item>HUF</item>
+        <item>CZK</item>
+        <item>AUD</item>
+        <item>RON</item>
+        <item>SEK</item>
+        <item>IDR</item>
+        <item>INR</item>
+        <item>BRL</item>
+        <item>RUB</item>
+        <item>HRK</item>
+        <item>JPY</item>
+        <item>THB</item>
+        <item>CHF</item>
+        <item>SGD</item>
+        <item>PLN</item>
+        <item>BGN</item>
+        <item>TRY</item>
+        <item>CNY</item>
+        <item>NOK</item>
+        <item>NZD</item>
+        <item>ZAR</item>
+        <item>USD</item>
+        <item>MXN</item>
+        <item>ILS</item>
+        <item>GBR</item>
+        <item>KRW</item>
+        <item>MYR</item>
+        <item>EUR</item>
+    </string-array>
+</resources>
