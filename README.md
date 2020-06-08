@@ -30,3 +30,7 @@ Simple mobile(android) application for currency conversion developed with Kotlin
 ### Screenshots 
 ![Illustration](https://github.com/miracaptured/Currency_converter/blob/master/screen1.png)
 ![Illustration](https://github.com/miracaptured/Currency_converter/blob/master/screen2.png)
+
+***
+For those who want to test my app, I downloaded an apk file called " Currency_converter"
+***
